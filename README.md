@@ -1,2 +1,2 @@
 # BST
-This program is Binary Search Tree. It was build to take arguments through the command line. It reads data from text file and builds the tree from there. This program can insert , search,and delete, and print the BST.
+This a Java program that supports the creation of a Binary  Search  Tree. This program supports reading a command file that supports insertion,deletion, searching, printing, and subtree children and depth count
